@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp1",
+  "version": "1.0.0",
+  "description": "Here is the project! # web3 development TO do list - learn web3 - learn rust - getrusty __[web3 image](https://assets.weforum.org/article/image/0R7BdnZl_gyeWOKsudAVmI7gNR673V4BIxQM6gwT-FY.png/)__ * getting rusty #### developed by:: *************** <markpollycarp@gmail.com >",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pollycarp/bootcamp1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pollycarp/bootcamp1/issues"
+  },
+  "homepage": "https://github.com/pollycarp/bootcamp1#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
